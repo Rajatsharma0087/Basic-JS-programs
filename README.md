@@ -3,6 +3,22 @@ Basic JavaScript Programs:
 - Factorial
 - Reverse String
 
+# JavaScript Basics
+
+Simple logic-building programs every JavaScript developer should know.
+
+📌 Included Programs
+Even or Odd Number
+Prime Number Checker
+Factorial Program
+Fibonacci Series
+Reverse String
+Palindrome Checker
+Largest Number in Array
+Sum of Array Elements
+Swap Two Variables
+Number Guessing Game
+
 # 🚀 JavaScript Intermediate Concepts
 
 A comprehensive collection of intermediate JavaScript concepts with practical examples. Perfect for developers looking to level up their JS skills!
